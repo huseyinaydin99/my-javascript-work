@@ -1,0 +1,1 @@
+var a = "Merhaba Window";//console windows yaz değeri gör
